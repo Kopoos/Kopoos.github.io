@@ -1,17 +1,17 @@
 # Site settings
-title: Kopoo's Blog
+title: 
 SEOTitle: kopoo的博客 | Wusier
 header-img: img/post-bg-desk.jpg
 email: wusi326114@gmail.com
 description: "One plough, one harvest"
-keyword: "BY, BY Blog, wusier的博客, wusier, iOS, Apple, iPhone"
+keyword: "后端, Java, wusier的博客, 并发, Spring, 数据库, JVM"
 url: "http://kopoos.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "seu 南京"
 sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -22,7 +22,7 @@ RSS: false
 zhihu_username:     qiubaiying
 github_username:    qiubaiying
 facebook_username:  baiying.qiu.7
-jianshu_username:   e71990ada2fd
+#jianshu_username:   e71990ada2fd
 #twitter_username:   qiubaiying
 
 
